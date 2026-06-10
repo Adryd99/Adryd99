@@ -28,3 +28,4 @@ forecasting. Spring Boot · Keycloak · PostgreSQL · React · Docker.
 
 📍 Lugano, Switzerland
 💼 [LinkedIn](https://linkedin.com/in/adrian-dumitru-dev)
+🌐 [Personal site](https://github.com/Adryd99)
